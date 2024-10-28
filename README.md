@@ -21,10 +21,10 @@ This project involves building a responsive personal portfolio website that effe
 
 ## 💡 Deployment
 
-You can access the website [here](https://yassine-website.netlify.app/).
+You can access the website [here](/).
 
 ## 💬 Contact
 
-For more information, please contact <yassine.rodani@gmail.com>
+For more information, please contact <contact.amirhamja@gmail.com>
 # portfolio
 # portfolio
